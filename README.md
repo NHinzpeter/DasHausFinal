@@ -11,3 +11,6 @@ Ein Soundtrack und Footsteps untermalen das Spiel auditiv.<br>
 Zur Umsetzung in VR wurde Google VR mitsamt der entsprechenden Assets genutzt.<br>
 Screenshots: <br><br>
 ![Alt text](./Screenshots/DasHausScreenshot1.PNG?raw=true "1")<br>
+![Alt text](./Screenshots/DasHausScreenshot2.PNG?raw=true "2")<br>
+![Alt text](./Screenshots/DasHausScreenshot3.PNG?raw=true "3")<br>
+![Alt text](./Screenshots/DasHausScreenshot4.PNG?raw=true "4")<br>
