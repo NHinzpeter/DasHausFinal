@@ -9,3 +9,5 @@ Diese Paranormalität führt auch dazu, dass die Spielenden immer wieder vor rä
 Außerdem wurde vermehrt auf Interaktionen gesetzt, um das Spiel spannender zu gestalten.<br>
 Ein Soundtrack und Footsteps untermalen das Spiel auditiv.<br>
 Zur Umsetzung in VR wurde Google VR mitsamt der entsprechenden Assets genutzt.<br>
+Screenshots: <br><br>
+![Alt text](./Screenshots/DasHausScreenshot1.PNG?raw=true "1")<br>
